@@ -6,6 +6,16 @@ FiveM Script for downtime period
 
   - Send ads before reboot
 
+# Requirements
+
+  - cron,
+  - FiveM-Ads,
+
+# Getting Started
+
+1. Add ``downtime`` folder into resources
+2. Add in ``server.cfg``
+
 # Legal
 ### License
 Artnod-FiveM-Mods/Downtime  
